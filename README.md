@@ -51,20 +51,4 @@ This project is licensed under the **Boost Software License 1.0 (BSL-1.0)**. See
 
 ---
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
----
-
-## Contact
-
-For questions or support, please open an issue on the GitHub repository.
-
----
-
-If you want, I can help you write a more detailed usage section or generate example code snippets if you provide the contents or main functionality of `RTNG.php`.
-
-Citations:
-[1] https://github.com/MariaPuggioni/RECTANGEL
 
