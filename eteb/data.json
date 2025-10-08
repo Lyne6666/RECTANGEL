@@ -1,1 +1,5 @@
-{"date":"2014-06-12T10:41:54+00:00"}
+// Data timestamp in ISO 8601 format
+{
+  "timestamp": "2014-06-12T10:41:54+00:00"
+}
+```
